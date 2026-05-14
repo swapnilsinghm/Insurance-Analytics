@@ -108,7 +108,6 @@ The SQL file contains key analytical queries such as:
 ---
 
 ## ✍️ Author
-**Sushant**  
+**Swapnil**  
 Data Analyst | BI Developer
 
-**Made with ❤️ for Portfolio Showcase**
