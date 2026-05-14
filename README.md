@@ -1,4 +1,4 @@
-# Insurance Analytics - Weekly Branch Dashboard
+# Insurance Analytics - 
 
 ![Insurance Power BI Dashboard](screenshots/Insurance%20Project%20Power%20BI%20Dashboard%20pic.png)
 
